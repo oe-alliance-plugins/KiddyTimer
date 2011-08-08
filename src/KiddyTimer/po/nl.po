@@ -1,32 +1,33 @@
+# Dutch translations for enigma2-plugins package.
+# Copyright (C) 2011 THE enigma2-plugins'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma2-plugins package.
+# Automatically generated, 2011.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Enigma 2 plugin - kiddytimer\n"
+"Project-Id-Version: enigma2-plugins 3.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-08 13:42+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: maja <jovanovic@gmx.ch>\n"
-"Language-Team: veselin & majevica CRNABERZA <jovanovic@gmx.ch>\n"
-"Language: \n"
+"PO-Revision-Date: 2011-08-08 13:42+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Basepath: /home/dario/Plugins/kiddytimer\n"
-"X-Poedit-Language: Serbian\n"
-"X-Poedit-Country: SERBIA\n"
-"X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-SearchPath-0: /home/dario/Plugins/kiddytimer\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "01:00"
-msgstr "01:00"
+msgstr ""
 
 msgid "??:??"
-msgstr "??:??"
+msgstr ""
 
 msgid "Allows to controls your kids' daily TV usage"
-msgstr "Dopušta vam kontrolu dnevnog korišćenja TV-a vašeg deteta"
+msgstr ""
 
 msgid "Cancel"
-msgstr "Otkaži"
+msgstr ""
 
 msgid "Center screen at the lower border"
 msgstr ""
@@ -41,7 +42,7 @@ msgid ""
 msgstr ""
 
 msgid "Clock"
-msgstr "Sat"
+msgstr ""
 
 msgid "Decrease remaining time"
 msgstr ""
@@ -53,10 +54,10 @@ msgid "Discard changes and close screen"
 msgstr ""
 
 msgid "Do you want to start the kiddytimer- plugin now."
-msgstr "Da li želite da pokrenete dodatak dečji tajmer sada?"
+msgstr ""
 
 msgid "Don't monitor TV started after"
-msgstr "Ne kontroliši TV startovan posle "
+msgstr ""
 
 msgid "Don't monitor TV started before"
 msgstr ""
@@ -68,13 +69,13 @@ msgid "Enable KiddyTimer for x minutes"
 msgstr ""
 
 msgid "Enabled"
-msgstr "Uključeno"
+msgstr ""
 
 msgid "Enter pin code"
-msgstr "Unesite pin kod"
+msgstr ""
 
 msgid "Friday"
-msgstr "Petak"
+msgstr ""
 
 msgid "Increase remaining time"
 msgstr ""
@@ -83,17 +84,17 @@ msgid "Invalid selection"
 msgstr ""
 
 msgid "KiddyTimer"
-msgstr "Dečji tajmer"
+msgstr ""
 
 #, python-format
 msgid "Last day started: %s"
-msgstr "Start.posled. dana: %s"
+msgstr ""
 
 msgid "Monday"
-msgstr "Ponedeljak"
+msgstr ""
 
 msgid "Move clock"
-msgstr "Pomeri sat"
+msgstr ""
 
 msgid "Move screen down"
 msgstr ""
@@ -129,24 +130,24 @@ msgid "Move screen up"
 msgstr ""
 
 msgid "PIN"
-msgstr "PIN "
+msgstr ""
 
 msgid "Please enter the correct pin code"
-msgstr "Molim unesite ispravan pin kod"
+msgstr ""
 
 msgid "Please select your KiddyTimer- option"
 msgstr ""
 
 #, python-format
 msgid "Plugin: %(plugin)s , Version: %(version)s"
-msgstr "Dodatak: %(plugin)s , Verzija: %(version)s"
+msgstr ""
 
 #, python-format
 msgid "Remaining time: %s"
-msgstr "Preostalo vreme: %s"
+msgstr ""
 
 msgid "Reset clock"
-msgstr "Resetuj sat"
+msgstr ""
 
 msgid "Reset saved position"
 msgstr ""
@@ -155,10 +156,10 @@ msgid "Reset todays remaining time"
 msgstr ""
 
 msgid "Saturday"
-msgstr "Subota"
+msgstr ""
 
 msgid "Save"
-msgstr "Sačuvaj"
+msgstr ""
 
 msgid "Save values and close screen"
 msgstr ""
@@ -167,7 +168,7 @@ msgid "Set remaining time"
 msgstr ""
 
 msgid "Smiley"
-msgstr "Smajli"
+msgstr ""
 
 msgid "Start KiddyTimer"
 msgstr ""
@@ -176,22 +177,22 @@ msgid "Stop KiddyTimer (this session only)"
 msgstr ""
 
 msgid "Style of timer"
-msgstr "Stil tajmera"
+msgstr ""
 
 msgid "Sunday"
-msgstr "Nedelja"
+msgstr ""
 
 msgid "The pin code you entered is wrong."
 msgstr ""
 
 msgid "Thursday"
-msgstr "Četvrtak"
+msgstr ""
 
 msgid "Timeout for activation dialog"
-msgstr "Vreme za aktiviranje dijaloga"
+msgstr ""
 
 msgid "Tuesday"
-msgstr "Utorak"
+msgstr ""
 
 msgid "Wednesday"
-msgstr "Sreda"
+msgstr ""
