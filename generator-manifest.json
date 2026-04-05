@@ -1,0 +1,19 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Allows to control the Kids' daily TV usage",
+  "description_recipe": "Allows to control the Kids' daily TV usage",
+  "history_source_dir": "kiddytimer",
+  "internal_package_name": "enigma2-plugin-extensions-kiddytimer",
+  "module_dir_name": "KiddyTimer",
+  "output_subdir": "kiddytimer",
+  "package_name": "enigma2-plugin-extensions-kiddytimer",
+  "plugin_src_rel": "kiddytimer",
+  "python_package": "KiddyTimer",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "KiddyTimer",
+  "rrecommends": "",
+  "rreplaces": "",
+  "selected_from_plugin_list": true
+}
