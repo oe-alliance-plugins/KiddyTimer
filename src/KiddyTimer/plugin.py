@@ -1,13 +1,10 @@
-from Components.ActionMap import ActionMap, NumberActionMap
 from Components.config import config, ConfigInteger, ConfigSubsection, ConfigSelection, \
-    ConfigSubList, ConfigText, ConfigYesNo, ConfigDateTime, ConfigClock, ConfigPIN
+    ConfigSubList, ConfigText, ConfigYesNo, ConfigClock, ConfigPIN
 from .KTmain import kiddyTimer
 from .KTsetup import KiddyTimerSetup
 from Plugins.Plugin import PluginDescriptor
-from Screens.MessageBox import MessageBox
 from .__init__ import _
 from . import KTglob
-import time
 
 config.plugins.KiddyTimer = ConfigSubsection()
 config.plugins.KiddyTimer.enabled = ConfigYesNo(default=False)

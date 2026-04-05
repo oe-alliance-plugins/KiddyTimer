@@ -8,14 +8,11 @@ from Components.config import config, configfile, getConfigListEntry
 from .KTmain import kiddyTimer
 from .KTMultiPixmap import KTmultiPixmap
 from .MovableScreen import MovableScreen
-from Screens.InputBox import PinInput
 from Screens.MessageBox import MessageBox
 from Screens.ParentalControlSetup import ProtectedScreen
 from Screens.Screen import Screen
-from Tools import Notifications
 from .__init__ import _
 from . import KTglob
-import time
 
 
 class KiddyTimerSetup(ConfigListScreen, Screen, ProtectedScreen):

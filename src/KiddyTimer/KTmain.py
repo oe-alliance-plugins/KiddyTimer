@@ -9,9 +9,7 @@ from Screens.MessageBox import MessageBox
 from Screens.MinuteInput import MinuteInput
 from Screens.Screen import Screen
 from Screens import Standby
-from Tools.BoundFunction import boundFunction
 from Tools import Notifications
-from Tools.Directories import resolveFilename, SCOPE_CONFIG
 from enigma import ePoint, eTimer, eDVBLocalTimeHandler
 
 from .__init__ import _
