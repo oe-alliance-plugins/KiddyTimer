@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KiddyTimer\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
 "Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
@@ -16,24 +16,32 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ../src\n"
 
+#: ../KTmain.py:46 ../KTpositioner.py:20 ../KTpositioner.py:22
+#: ../KTsetup.py:150 ../KTsetup.py:152 ../KTsetup.py:154
 msgid "01:00"
 msgstr "01:00"
 
+#: ../KTmain.py:42 ../KTmain.py:44
 msgid "??:??"
 msgstr "??:??"
 
+#: ../plugin.py:57
 msgid "Allows to controls your kids' daily TV usage"
 msgstr "Leidžia kontroliuoti kasdieninį jūsų vaikų TV žiūrėjimą"
 
+#: ../KTsetup.py:76
 msgid "Cancel"
 msgstr "Atšaukti"
 
+#: ../MovableScreen.py:32
 msgid "Center screen at the lower border"
 msgstr "Centruoti langą apatiniame krašte"
 
+#: ../MovableScreen.py:26
 msgid "Center screen at the upper border"
 msgstr "Centruoti langą viršutiniame krašte"
 
+#: ../KTmain.py:232
 msgid ""
 "Cheat attempt detected. \n"
 "Box has not been shudown correctly. \n"
@@ -43,161 +51,213 @@ msgstr ""
 "Imtuvas išjungtas neteisingai. \n"
 "Likęs laikas buvo nustatytas 0."
 
+#: ../plugin.py:13
 msgid "Clock"
 msgstr "Laikrodis"
 
+#: ../KTmain.py:391
 msgid "Decrease remaining time"
 msgstr "Sumažinti likusį laiką"
 
+#: ../KTmain.py:397
 msgid "Disable KiddyTimer"
 msgstr "Išjungti vaikų laikmatį"
 
+#: ../MovableScreen.py:18 ../MovableScreen.py:23
 msgid "Discard changes and close screen"
 msgstr "Atšaukti pakeitimus ir uždaryti langą"
 
+#: ../KTmain.py:245
 msgid "Do you want to start the kiddytimer- plugin now."
 msgstr "Ar norite paleisti vaikų laikmatį dabar."
 
+#: ../KTsetup.py:53
 msgid "Don't monitor TV started after"
 msgstr "Nestebėti TV peržiūrų po"
 
+#: ../KTsetup.py:52
 msgid "Don't monitor TV started before"
 msgstr "Nestebėti TV peržiūrų prieš"
 
+#: ../KTmain.py:399
 msgid "Enable KiddyTimer"
 msgstr "Įjungti vaikų laikmatį"
 
+#: ../KTmain.py:396 ../KTmain.py:400
 msgid "Enable KiddyTimer for x minutes"
 msgstr "Įjungti  vaikų laikmatį x minučių"
 
+#: ../KTsetup.py:50
 msgid "Enabled"
 msgstr "Įjungta"
 
+#: ../KTmain.py:255
 msgid "Enter pin code"
 msgstr "Įrašykite PIN kodą"
 
+#: ../KTglob.py:13
 msgid "Friday"
 msgstr "penktadienis"
 
+#: ../KTmain.py:390
 msgid "Increase remaining time"
 msgstr "Padidinti likusį laiką"
 
+#: ../KTmain.py:417
 msgid "Invalid selection"
 msgstr "Neteisingas pasirinkimas"
 
+#: ../plugin.py:56 ../plugin.py:57
 msgid "KiddyTimer"
 msgstr "Vaikų laikmatis"
 
+#: ../KTsetup.py:73
 #, python-format
 msgid "Last day started: %s"
 msgstr "Paskutinę dieną prasidėjo: %s"
 
+#: ../KTglob.py:9
 msgid "Monday"
 msgstr "pirmadienis"
 
+#: ../KTsetup.py:79
 msgid "Move clock"
 msgstr "Perkelti laikrodį"
 
+#: ../MovableScreen.py:22
 msgid "Move screen down"
 msgstr "Stumti langą žemyn"
 
+#: ../MovableScreen.py:29
 msgid "Move screen to the center of your TV"
 msgstr "Stumti langą į ekrano centrą"
 
+#: ../MovableScreen.py:19
 msgid "Move screen to the left"
 msgstr "Stumti langą į kairę"
 
+#: ../MovableScreen.py:31
 msgid "Move screen to the lower left corner"
 msgstr "Stumti langą į kairį apatinį kampą"
 
+#: ../MovableScreen.py:33
 msgid "Move screen to the lower right corner"
 msgstr "Stumti langą į apatinį dešinį kampą"
 
+#: ../MovableScreen.py:28
 msgid "Move screen to the middle of the left border"
 msgstr "Stumti langą į kairio krašto vidurį"
 
+#: ../MovableScreen.py:30
 msgid "Move screen to the middle of the right border"
 msgstr "Stumti langą į dešinio krašto vidurį"
 
+#: ../MovableScreen.py:20
 msgid "Move screen to the right"
 msgstr "Stumti langą į dešinę"
 
+#: ../MovableScreen.py:25
 msgid "Move screen to the upper left corner"
 msgstr "Stumti langą į viršutinį kairį kampą"
 
+#: ../MovableScreen.py:27
 msgid "Move screen to the upper right corner"
 msgstr "Stumti langą į viršutinį dešinį kampą"
 
+#: ../MovableScreen.py:21
 msgid "Move screen up"
 msgstr "Stumti langą aukštyn"
 
+#: ../KTsetup.py:51
 msgid "PIN"
 msgstr "PIN"
 
+#: ../KTmain.py:255
 msgid "Please enter the correct pin code"
 msgstr "Įrašykite teisingą PIN kodą"
 
+#: ../KTmain.py:401
 msgid "Please select your KiddyTimer- option"
 msgstr "Pasirinkite vaikų laikmačio opcijas"
 
+#: ../KTsetup.py:71
 #, python-format
 msgid "Plugin: %(plugin)s , Version: %(version)s"
 msgstr "Įskiepis: %(plugin)s , versija: %(version)s"
 
+#: ../KTsetup.py:72 ../KTsetup.py:118
 #, python-format
 msgid "Remaining time: %s"
 msgstr "Likęs laikas: %s"
 
+#: ../KTsetup.py:78
 msgid "Reset clock"
 msgstr "Išvalyti laikrodį"
 
+#: ../MovableScreen.py:34
 msgid "Reset saved position"
 msgstr "Ašaukti išsaugotą poziciją"
 
+#: ../KTmain.py:393
 msgid "Reset todays remaining time"
 msgstr "Išvalyti šios dienos likusį laiką"
 
+#: ../KTglob.py:14
 msgid "Saturday"
 msgstr "šeštadienis"
 
+#: ../KTsetup.py:77
 msgid "Save"
 msgstr "Išsaugoti"
 
+#: ../MovableScreen.py:17 ../MovableScreen.py:24
 msgid "Save values and close screen"
 msgstr "Išsaugoti reikšmes ir uždaryti langą"
 
+#: ../KTmain.py:392
 msgid "Set remaining time"
 msgstr "Nustatyti likusį laiką"
 
+#: ../plugin.py:13
 msgid "Smiley"
 msgstr "Šypsniukas"
 
+#: ../KTmain.py:395
 msgid "Start KiddyTimer"
 msgstr "Paleisti vaikų laikmatį"
 
+#: ../KTmain.py:389
 msgid "Stop KiddyTimer (this session only)"
 msgstr "Sustabdyti vaikų laikmatį (tik šiai sesijai)"
 
+#: ../KTsetup.py:54
 msgid "Style of timer"
 msgstr "Laikmačio stilius"
 
+#: ../KTglob.py:8
 msgid "Sunday"
 msgstr "sekmadienis"
 
+#: ../KTsetup.py:96
 msgid "The pin code you entered is wrong."
 msgstr "Įvedėte neteisingą PIN kodą."
 
+#: ../KTglob.py:12
 msgid "Thursday"
 msgstr "ketvirtadienis"
 
+#: ../KTsetup.py:55
 msgid "Timeout for activation dialog"
 msgstr "Aktyvacijos lange laukti"
 
+#: ../KTglob.py:10
 msgid "Tuesday"
 msgstr "antradienis"
 
+#: ../KTglob.py:11
 msgid "Wednesday"
 msgstr "trečiadienis"
 
+#: ../plugin.py:13
 msgid "no Image"
 msgstr ""
